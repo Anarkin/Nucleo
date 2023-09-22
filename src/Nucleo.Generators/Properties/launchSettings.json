@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Nucleo.Generators": {
+      "commandName": "Project"
+    },
+    "Nucleo.Generators.Debug": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\Nucleo.Generators.Tests\\Nucleo.Generators.Tests.csproj"
+    }
+  }
+}

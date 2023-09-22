@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# C# Source Generators
+
+gen/
+
 # User-specific files
 *.rsuser
 *.suo
